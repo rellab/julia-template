@@ -8,7 +8,8 @@
 				"julialang.language-julia"
 			],
             "settings": {
-                "workbench.colorTheme": "Default Light Modern"
+                "workbench.colorTheme": "Default Light Modern",
+                "julia.executablePath": "/opt/julia/bin/julia"
             }
         }
     }
