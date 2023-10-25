@@ -5,8 +5,7 @@
         "vscode": {
             "extensions": [
 				"mhutchie.git-graph",
-				"julialang.language-julia",
-				"ms-toolsai.jupyter-keymap"
+				"julialang.language-julia"
 			],
             "settings": {
                 "workbench.colorTheme": "Default Light Modern",
