@@ -5,11 +5,13 @@
         "vscode": {
             "extensions": [
 				"mhutchie.git-graph",
-				"julialang.language-julia"
+				"julialang.language-julia",
+				"ms-toolsai.jupyter-keymap"
 			],
             "settings": {
                 "workbench.colorTheme": "Default Light Modern",
-                "julia.executablePath": "/opt/julia/bin/julia"
+                "julia.executablePath": "/opt/julia/bin/julia",
+                "editor.acceptSuggestionOnEnter": "off"
             }
         }
     }
